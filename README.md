@@ -1,2 +1,2 @@
 # Accursed
-A port of the 1.6.4 classic mod NetherX for 1.16.5 focused on expanding the Nether & Curses.
+Accursed is a reimagining of classic mods NetherX & Hardcore Ender Expansion for modern Minecraft versions focused on expanding the Nether, End & Curses.
